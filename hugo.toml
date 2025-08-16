@@ -1,4 +1,4 @@
-baseURL = 'https://kentaro-meo.github.io/test_site/'
+baseURL = 'https://exemple.com/'
 languageCode = 'ja-jp'
 title = 'My New TEST Site'
 theme = 'ananke' 
